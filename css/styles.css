@@ -61,6 +61,9 @@ nav ul li a:hover {
     margin-top: 15px;
 }
 
+#about p {
+    margin-bottom: 20px; /* Add margin to the bottom of the paragraph */
+}
 .apps-section {
     padding: 40px 0;
     background: #111; /* Consistent background color */
