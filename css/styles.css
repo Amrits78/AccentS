@@ -168,7 +168,7 @@ footer a:hover {
     color: #fd0c0c; /* Lighter red on hover */
 }
 
-@media (max-width: 700px) {
+@media (max-width: 800px) {
     .navbar-menu {
         display: none; /* Hide the menu by default on smaller screens */
         flex-direction: column; /* Stack items vertically */
